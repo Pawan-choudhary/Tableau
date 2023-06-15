@@ -1,5 +1,6 @@
 # Covid-19 in India Dashboard Analysis
 
 
-<iframe src="https://github.com/Pawan-choudhary/Tableau/blob/main/covid-19%20India%20Dashboard.html" width="800" height="600"></iframe>
+![Covid-19 Dashboard](https://github.com/Pawan-choudhary/Tableau/blob/main/Dashboard%201.png)
+
 
